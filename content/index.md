@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: 
 draft: false
 ---
 

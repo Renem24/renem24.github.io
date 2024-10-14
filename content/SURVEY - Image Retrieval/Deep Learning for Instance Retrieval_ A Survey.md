@@ -1,0 +1,8 @@
+> "Deep Learning for Instance Retrieval: A Survey"  
+> IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE  
+> Wei Chen, Yu Liu, Weiping Wang, Erwin M. Bakker, Theodoros Georgiou, Paul Fieguth, Li Liu, and Michael S. Lew  
+> Academy of Advanced Technology Research of Hunan, DUTRU International School of Information Science and Engineering, Leiden Institute of Advanced Computer Science, Department of Systems Design Engineering, Center for Machine Vision and Signal Analysis  
+> https://arxiv.org/pdf/2101.11282
+
+> [!abstract]  
+> In recent years a vast amount of visual content has been generated and shared from many fields, such as social media platforms, medical imaging, and robotics. This abundance of content creation and sharing has introduced new challenges, particularly that of searching databases for similar content — Content Based Image Retrieval (CBIR) — a long-established research area in which improved efficiency and accuracy are needed for real-time retrieval. Artificial intelligence has made progress in CBIR and has significantly facilitated the process of instance search. In this survey we review recent instance retrieval works that are developed based on deep learning algorithms and techniques, with the survey organized by deep feature extraction, feature embedding and aggregation methods, and network fine-tuning strategies. Our survey considers a wide variety of recent methods, whereby we identify milestone work, reveal connections among various methods and present the commonly used benchmarks, evaluation results, common challenges, and propose promising future directions.

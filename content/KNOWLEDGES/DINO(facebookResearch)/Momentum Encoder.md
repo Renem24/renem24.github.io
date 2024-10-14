@@ -1,0 +1,1 @@
+student weight들에 [[Exponential Moving Average(EMA)]]를 적용

@@ -1,0 +1,1 @@
+multi-object에 대한 AP를 측정하여 평균을 구한 것

@@ -5,12 +5,12 @@
 ### Image meta search
 키워드나 설명 같은 **meta 데이터**를 기반으로 한 검색
 
-- [[Text-Based Image Retireval(TBIR)]]
+- [[TBIR(Text-Based Image Retireval)]]
 
 ## 2. Content-Based Image Retireval(CBIR)
 texture, color, shape 등의 visual content를 기반으로 한 검색
 
-- [[Content-Based Image Retireval(CBIR)]]
+- [[CBIR(Content-Based Image Retireval)]]
 
 ## 3. Local Features
 scale과 rotation에 invariant(불변)하는 feature들을 추출
@@ -31,7 +31,7 @@ high-dimensional feature space에서의 더 효율적인 indexing과 retrieval�
 ### Support Vector Machine(SVM)
 traditional linear classfication machine learning method
 
-- [[Support Vector Machine(SVM)]]
+- [[SVM(Support Vector Machine)]]
 
 ### Clustering
 

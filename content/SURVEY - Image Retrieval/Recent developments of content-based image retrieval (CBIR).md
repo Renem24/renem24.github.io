@@ -1,8 +1,0 @@
-> "Recent developments of content-based image retrieval (CBIR)"  
-> Neurocomputing  
-> Xiaoqing Li, Jiansheng Yang, Jinwen Ma  
-> Department of Information and Computational Science, School of Mathematical Sciences and LMAM, Peking University, Beijing, PR China  
-> [https://doi.org/10.1016/j.neucom.2020.07.139](https://doi.org/10.1016/j.neucom.2020.07.139)  
-
-> [!abstract]  
-> With the development of Internet technology and the popularity of digital devices, Content-Based Image Retrieval (CBIR) has been quickly developed and applied in various fields related to computer vision and artificial intelligence. Currently, it is possible to retrieve related images effectively and efficiently from a large scale database with an input image. In the past ten years, great efforts have been made for new theories and models of CBIR and many effective CBIR algorithms have been established. In this paper, we present a survey on the fast developments and applications of CBIR theories and algorithms during the period from 2009 to 2019. We mainly review the technological developments from the viewpoint of image representation and database search. We further summarize the practical applications of CBIR in the fields of fashion image retrieval, person re-identification, e-commerce product retrieval, remote sensing image retrieval and trademark image retrieval. Finally, we discuss the future research directions of CBIR with the challenge of big data and the utilization of deep learning techniques.

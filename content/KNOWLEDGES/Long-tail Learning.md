@@ -1,4 +1,6 @@
-### Long-tail Learning이란?
+# Long-Tail Learning
+---
+### What is 'Long-tail Learning'?
 
 class들 간의 sample 개수의 불균형을 해결하기 위한 학습 방법
 

@@ -1,11 +1,17 @@
-> “Emerging Properties in Self-Supervised Vision Transformers”
-> 
-> Mathilde Caron, Hugo Touvron, Ishan Misra, Herve Jegou, Julien Mairal Piotr Bojanowski, Armand Joulin
+> "Emerging Properties in Self-Supervised Vision Transformers"  
+> 2021-05  
+> arXiv  
+> Mathilde Caron, Hugo Touvron, Ishan Misra, Hervé Jegou, Julien Mairal, Piotr Bojanowski, Armand Joulin  
+> Facebook AI Research, Inria, Sorbonne University  
+> https://arxiv.org/pdf/2104.14294
 
-> [!summary] 
-> DINO: self-**di**stillation with **no** labels
-> self-supervised pre-training on ViT features
-> DINO는 framework이다.
+> [!abstract]  
+> In this paper, we question if self-supervised learning provides new properties to Vision Transformer (ViT) that stand out compared to convolutional networks (convnets). Beyond the fact that adapting self-supervised methods to this architecture works particularly well, we make the following observations: first, self-supervised ViT features contain explicit information about the semantic segmentation of an image, which does not emerge as clearly with supervised ViTs, nor with convnets. Second, these features are also excellent k-NN classifiers, reaching 78.3% top-1 on ImageNet with a small ViT. Our study also underlines the importance of momentum encoder, multi-crop training, and the use of small patches with ViTs. We implement our findings into a simple self-supervised method, called DINO, which we interpret as a form of self-distillation with no labels. We show the synergy between DINO and ViTs by achieving 80.1% top-1 on ImageNet in linear evaluation with ViT-Base.
+
+> [!note] 
+> **DINO**: self-**di**stillation with **no** labels
+> - self-supervised pre-training on ViT features
+> - DINO는 framework
 
 
 ### Figures
@@ -62,7 +68,7 @@ self-supervised learning이 ViT(convnet의 대체재)에게 새로운 특성을 
 
 ## Introduction
 Visual Recognition 분야에서, [[Transformer]]는 [[CNN(Convolutional Neural Networks)]]에 대한 대안으로 부상하고 있다.
-여기에 [[Natural Languae Processing(NLP)]]에서 주로 사용하는 training strategy을 적용한다.
+여기에 [[NLP(Natural Language Processing)]]에서 주로 사용하는 training strategy을 적용한다.
 이는 대규모의 data로 pre-training하고, target dataset으로 fine-tuning을 하는 방법이다.
 -> 이러한 방식이 ViT(Vision Transformer)이다.
 
@@ -110,5 +116,4 @@ DINO+ViT는 ImageNet linear classification benchmark로 validate했다.
 DINO+convnet에 사용한 convnet은 ResNet-50이다.
 
 
-## Related work
-### Self-supervised learning
+

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/basic template.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "basic template"
+              "title": "README"
             }
           }
         ]
@@ -176,11 +176,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "074b5fd063752e53",
+  "active": "dcdbe31c6df87969",
   "lastOpenFiles": [
     "templates/basic template.md",
-    "templates",
     "content/index.md",
-    "content"
+    "content",
+    "templates"
   ]
 }

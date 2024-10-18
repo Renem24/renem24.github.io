@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "index"
             }
           }
         ]
@@ -176,10 +176,51 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dcdbe31c6df87969",
+  "active": "074b5fd063752e53",
   "lastOpenFiles": [
-    "templates/basic template.md",
-    "content/index.md",
+    "content/images/Pasted image 20241008155208.png",
+    "content/images/Pasted image 20240906231659.png",
+    "content/images/Pasted image 20240905112540.png",
+    "content/images/Pasted image 20240907104229.png",
+    "content/images/Pasted image 20240909224412.png",
+    "content/images/Pasted image 20240909234614.png",
+    "content/images/Pasted image 20240909233345.png",
+    "content/images/Pasted image 20240910155641.png",
+    "content/images/Pasted image 20240910120553.png",
+    "content/images/Pasted image 20240920115041.png",
+    "content/images/Pasted image 20240910120425.png",
+    "content/KNOWLEDGES/SURF(Speeded Up Robust Features).md",
+    "content/KNOWLEDGES/TBIR(Text-Based Image Retireval).md",
+    "content/KNOWLEDGES/Long-tail Learning.md",
+    "content/KNOWLEDGES/SIFT(Scale-Invariant Feature Transfrom).md",
+    "content/KNOWLEDGES/ViT(Vision Transformer).md",
+    "content/KNOWLEDGES/Bag of Words(BoW).md",
+    "content/KNOWLEDGES/CNN(Convolutional Neural Networks).md",
+    "content/KNOWLEDGES/Momentum Encoder.md",
+    "content/KNOWLEDGES/Kernal Function.md",
+    "content/KNOWLEDGES/EMA(Exponential Moving Average).md",
+    "content/KNOWLEDGES/Data Augmentation.md",
+    "content/KNOWLEDGES/Image Feature.md",
+    "content/KNOWLEDGES/Triplet Loss.md",
+    "content/KNOWLEDGES/RAG/Retrieval Augmented Generation(RAG).md",
+    "content/KNOWLEDGES/RAG/DPR.md",
+    "content/KNOWLEDGES/RAG",
+    "content/KNOWLEDGES/NCE(Noise Contrastive Estimator).md",
+    "content/KNOWLEDGES/Instance Classification.md",
+    "content/KNOWLEDGES/CBIR(Content-Based Image Retireval).md",
+    "content/KNOWLEDGES/Clustering/Clustering.md",
+    "content/KNOWLEDGES/Clustering",
+    "content/KNOWLEDGES/GAN(Generative Adversarial Networks).md",
+    "content/KNOWLEDGES/Deep Learning Based Image Retrieval.md",
+    "content/KNOWLEDGES/SVM(Support Vector Machine).md",
+    "content/KNOWLEDGES/self-supervised learning.md",
+    "content/KNOWLEDGES/NLP(Natural Language Processing).md",
+    "content/KNOWLEDGES/Loss/Loss.md",
+    "content/KNOWLEDGES/Loss",
+    "content/KNOWLEDGES/Metrics",
+    "content/KNOWLEDGES/DINO(Meta)",
+    "content/KNOWLEDGES",
+    "content/images",
     "content",
     "templates"
   ]

@@ -11,15 +11,12 @@
             "id": "dcdbe31c6df87969",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "docs/images/dns records.png"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "dns records"
             }
           }
         ]
@@ -178,7 +175,6 @@
   },
   "active": "dcdbe31c6df87969",
   "lastOpenFiles": [
-    "docs/images/dns records.png",
     "content/index.md",
     "content/images/Pasted image 20241008155208.png",
     "content/images/Pasted image 20240906231659.png",
@@ -214,6 +210,7 @@
     "content/KNOWLEDGES/LSH(Locality-Sensitive Hashing).md",
     "content/KNOWLEDGES/Bag of Visual Words.md",
     "content/KNOWLEDGES/BYOL.md",
+    "content/KNOWLEDGES/K-Means.md",
     "content/KNOWLEDGES/RAG",
     "content/KNOWLEDGES/Clustering",
     "content/KNOWLEDGES/Loss",

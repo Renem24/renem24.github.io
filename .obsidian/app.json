@@ -8,5 +8,5 @@
   "alwaysUpdateLinks": true,
   "propertiesInDocument": "visible",
   "showLineNumber": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": false
 }

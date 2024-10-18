@@ -11,15 +11,12 @@
             "id": "dcdbe31c6df87969",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "docs/images/dns records.png"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "dns records"
             }
           }
         ]
@@ -176,9 +173,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "074b5fd063752e53",
+  "active": "dcdbe31c6df87969",
   "lastOpenFiles": [
-    "content/images/Pasted image 20241008155208.png",
+    "content/index.md",
     "content/images/Pasted image 20240906231659.png",
     "content/images/Pasted image 20240905112540.png",
     "content/images/Pasted image 20240907104229.png",
@@ -202,20 +199,20 @@
     "content/KNOWLEDGES/Data Augmentation.md",
     "content/KNOWLEDGES/Image Feature.md",
     "content/KNOWLEDGES/Triplet Loss.md",
-    "content/KNOWLEDGES/RAG/Retrieval Augmented Generation(RAG).md",
-    "content/KNOWLEDGES/RAG/DPR.md",
-    "content/KNOWLEDGES/RAG",
     "content/KNOWLEDGES/NCE(Noise Contrastive Estimator).md",
     "content/KNOWLEDGES/Instance Classification.md",
     "content/KNOWLEDGES/CBIR(Content-Based Image Retireval).md",
-    "content/KNOWLEDGES/Clustering/Clustering.md",
-    "content/KNOWLEDGES/Clustering",
     "content/KNOWLEDGES/GAN(Generative Adversarial Networks).md",
     "content/KNOWLEDGES/Deep Learning Based Image Retrieval.md",
     "content/KNOWLEDGES/SVM(Support Vector Machine).md",
     "content/KNOWLEDGES/self-supervised learning.md",
     "content/KNOWLEDGES/NLP(Natural Language Processing).md",
-    "content/KNOWLEDGES/Loss/Loss.md",
+    "content/KNOWLEDGES/LSH(Locality-Sensitive Hashing).md",
+    "content/KNOWLEDGES/Bag of Visual Words.md",
+    "content/KNOWLEDGES/BYOL.md",
+    "content/KNOWLEDGES/K-Means.md",
+    "content/KNOWLEDGES/RAG",
+    "content/KNOWLEDGES/Clustering",
     "content/KNOWLEDGES/Loss",
     "content/KNOWLEDGES/Metrics",
     "content/KNOWLEDGES/DINO(Meta)",

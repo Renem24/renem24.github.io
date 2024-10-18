@@ -1,0 +1,11 @@
+{
+  "spellcheck": false,
+  "promptDelete": false,
+  "attachmentFolderPath": "images",
+  "tabSize": 3,
+  "newFileLocation": "current",
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "visible",
+  "showLineNumber": true
+}

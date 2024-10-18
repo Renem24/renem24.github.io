@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "d8e9f55d517e15bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "aeb145bc26596adc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2d5cfdfafe0c405",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KNOWLEDGES/BYOL.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BYOL"
+            }
+          },
+          {
+            "id": "16c8cc49e18a29fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "etc/AI TECH DAY 2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI TECH DAY 2024"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d12619e473ee54d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1c0c6d03855fa29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67e7ddf18a8a5dcb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "494da946ec4b2b75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ema",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fb3cd83b14dc405b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "fe23430135531c80",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5024719238281
+  },
+  "right": {
+    "id": "526cc0dcb7ef36a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3e26b22d2ff5f76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7307b14a7fde14f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "etc/AI TECH DAY 2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for AI TECH DAY 2024"
+            }
+          },
+          {
+            "id": "607d9ae1fb989a23",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "etc/AI TECH DAY 2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from AI TECH DAY 2024"
+            }
+          },
+          {
+            "id": "f0c448b43103d19a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "369e1a2e305f6aa7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "etc/AI TECH DAY 2024.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of AI TECH DAY 2024"
+            }
+          },
+          {
+            "id": "8c96057054730415",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "8789068db6cba8d6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "16c8cc49e18a29fb",
+  "lastOpenFiles": [
+    "KNOWLEDGES/DINO(Meta)/DINO(Meta).md",
+    "etc/AI TECH DAY 2024.md",
+    "etc",
+    "KNOWLEDGES/BYOL.md",
+    "images/Pasted image 20241008155334.png",
+    "images/Pasted image 20240906211252.png",
+    "images/Pasted image 20240905160244.png",
+    "images/Pasted image 20241017155517.png",
+    "KNOWLEDGES/DINO(Meta)/SGD(Stochastic Gradient Descent).md",
+    "KNOWLEDGES/DINO(Meta)/무제 파일.md",
+    "KNOWLEDGES/DINO(Meta)/MLP(Multi-layer Perceptron).md",
+    "KNOWLEDGES/Momentum Encoder.md",
+    "KNOWLEDGES/ViT(Vision Transformer).md",
+    "KNOWLEDGES/DINO(Meta)/operations to avoid COLLAPSE in self-supervised methods.md",
+    "KNOWLEDGES/EMA(Exponential Moving Average).md",
+    "KNOWLEDGES/DINO(Meta)/ResNet.md",
+    "KNOWLEDGES/DINO(Meta)/Polyak-Ruppert Averaging.md",
+    "KNOWLEDGES/DINO(Meta)/ViT.md",
+    "KNOWLEDGES/DINO(Meta)/Model Ensembling.md",
+    "KNOWLEDGES/().md",
+    "KNOWLEDGES/DINO(Meta)/GD(Gradient Descent).md",
+    "KNOWLEDGES/DINO(Meta)/Local-to-Global Correspondence.md",
+    "templates/정리 format.md",
+    "templates/논문 정리 format.md",
+    "images/Pasted image 20241017102834.png",
+    "PLAN/24년 10월/2024-10-17 목.md",
+    "KNOWLEDGES/DINO(Meta)/Knowledge Distilation.md",
+    "KNOWLEDGES/DINO(Meta)/Self-Training.md",
+    "PLAN/24년 10월/2024-10-16 수.md",
+    "KNOWLEDGES/CBIR(Content-Based Image Retireval).md",
+    "CVIPL/SURVEY - Image Retrieval/A Decade Survey of Content Based Image Retrieval Using Deep Learning.md",
+    "CVIPL/SURVEY - Image Retrieval/Deep image retrieval_ a survey.md",
+    "images/Untitled 4.png",
+    "images/Untitled 3.png",
+    "images/Untitled 2.png",
+    "images/Untitled 1.png",
+    "images/Untitled.png",
+    "KNOWLEDGES/Clustering",
+    "KNOWLEDGES/Loss",
+    "templates",
+    "PLAN",
+    "CVIPL",
+    "CVIPL/Project - backup",
+    "PLAN/24년 10월",
+    "PLAN/24년 9월",
+    "CVIPL/SURVEY - Image Retrieval",
+    "무제 파일.canvas"
+  ]
+}

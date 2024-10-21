@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "155ee4d31f326a49",
+    "type": "split",
+    "children": [
+      {
+        "id": "8644e6e0bac001fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcdbe31c6df87969",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "docs/images/dns records.png"
+              },
+              "icon": "lucide-image",
+              "title": "dns records"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb7e41bcc75a31c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "353c1e91366f24e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "074b5fd063752e53",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "706f591b8f5f212e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "83202b483466f2c2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "03398cdf608c5491",
+    "type": "split",
+    "children": [
+      {
+        "id": "dab3e796466ce7dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7414710937a1cc1c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b9dfaca3c28a47ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "bef4f8afa044ecc6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ae9ab9510d3322b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "907a4a1f5b06959c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false,
+      "obsidian-git:Open Git source control": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "dcdbe31c6df87969",
+  "lastOpenFiles": [
+    "content/index.md",
+    "content/images/Pasted image 20241008155208.png",
+    "content/images/Pasted image 20240906231659.png",
+    "content/images/Pasted image 20240905112540.png",
+    "content/images/Pasted image 20240907104229.png",
+    "content/images/Pasted image 20240909224412.png",
+    "content/images/Pasted image 20240909234614.png",
+    "content/images/Pasted image 20240909233345.png",
+    "content/images/Pasted image 20240910155641.png",
+    "content/images/Pasted image 20240910120553.png",
+    "content/images/Pasted image 20240920115041.png",
+    "content/KNOWLEDGES/SURF(Speeded Up Robust Features).md",
+    "content/KNOWLEDGES/TBIR(Text-Based Image Retireval).md",
+    "content/KNOWLEDGES/Long-tail Learning.md",
+    "content/KNOWLEDGES/SIFT(Scale-Invariant Feature Transfrom).md",
+    "content/KNOWLEDGES/ViT(Vision Transformer).md",
+    "content/KNOWLEDGES/Bag of Words(BoW).md",
+    "content/KNOWLEDGES/CNN(Convolutional Neural Networks).md",
+    "content/KNOWLEDGES/Momentum Encoder.md",
+    "content/KNOWLEDGES/Kernal Function.md",
+    "content/KNOWLEDGES/EMA(Exponential Moving Average).md",
+    "content/KNOWLEDGES/Data Augmentation.md",
+    "content/KNOWLEDGES/Image Feature.md",
+    "content/KNOWLEDGES/Triplet Loss.md",
+    "content/KNOWLEDGES/NCE(Noise Contrastive Estimator).md",
+    "content/KNOWLEDGES/Instance Classification.md",
+    "content/KNOWLEDGES/CBIR(Content-Based Image Retireval).md",
+    "content/KNOWLEDGES/GAN(Generative Adversarial Networks).md",
+    "content/KNOWLEDGES/Deep Learning Based Image Retrieval.md",
+    "content/KNOWLEDGES/SVM(Support Vector Machine).md",
+    "content/KNOWLEDGES/self-supervised learning.md",
+    "content/KNOWLEDGES/NLP(Natural Language Processing).md",
+    "content/KNOWLEDGES/LSH(Locality-Sensitive Hashing).md",
+    "content/KNOWLEDGES/Bag of Visual Words.md",
+    "content/KNOWLEDGES/BYOL.md",
+    "content/KNOWLEDGES/K-Means.md",
+    "content/KNOWLEDGES/RAG",
+    "content/KNOWLEDGES/Clustering",
+    "content/KNOWLEDGES/Loss",
+    "content/KNOWLEDGES/Metrics",
+    "content/KNOWLEDGES/DINO(Meta)",
+    "content/KNOWLEDGES",
+    "content/images",
+    "content",
+    "templates"
+  ]
+}

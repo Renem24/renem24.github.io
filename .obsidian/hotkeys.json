@@ -1,0 +1,27 @@
+{
+  "editor:cycle-list-checklist": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:open-link-in-new-leaf": [],
+  "templater-obsidian:templates/정리 format.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F12"
+    }
+  ],
+  "templater-obsidian:templates/논문 정리 format.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F11"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "recentFiles": [
+    {
+      "basename": "AI TECH DAY 2024",
+      "path": "etc/AI TECH DAY 2024.md"
+    },
+    {
+      "basename": "DINO(Meta)",
+      "path": "KNOWLEDGES/DINO(Meta)/DINO(Meta).md"
+    },
+    {
+      "basename": "BYOL",
+      "path": "KNOWLEDGES/BYOL.md"
+    },
+    {
+      "basename": "Pasted image 20241008155334",
+      "path": "images/Pasted image 20241008155334.png"
+    },
+    {
+      "basename": "Pasted image 20240906211252",
+      "path": "images/Pasted image 20240906211252.png"
+    },
+    {
+      "basename": "Pasted image 20240905160244",
+      "path": "images/Pasted image 20240905160244.png"
+    },
+    {
+      "basename": "SGD(Stochastic Gradient Descent)",
+      "path": "KNOWLEDGES/DINO(Meta)/SGD(Stochastic Gradient Descent).md"
+    },
+    {
+      "basename": "MLP(Multi-layer Perceptron)",
+      "path": "KNOWLEDGES/DINO(Meta)/MLP(Multi-layer Perceptron).md"
+    },
+    {
+      "basename": "Momentum Encoder",
+      "path": "KNOWLEDGES/Momentum Encoder.md"
+    },
+    {
+      "basename": "ViT(Vision Transformer)",
+      "path": "KNOWLEDGES/ViT(Vision Transformer).md"
+    },
+    {
+      "basename": "operations to avoid COLLAPSE in self-supervised methods",
+      "path": "KNOWLEDGES/DINO(Meta)/operations to avoid COLLAPSE in self-supervised methods.md"
+    },
+    {
+      "basename": "EMA(Exponential Moving Average)",
+      "path": "KNOWLEDGES/EMA(Exponential Moving Average).md"
+    },
+    {
+      "basename": "ResNet",
+      "path": "KNOWLEDGES/DINO(Meta)/ResNet.md"
+    },
+    {
+      "basename": "Polyak-Ruppert Averaging",
+      "path": "KNOWLEDGES/DINO(Meta)/Polyak-Ruppert Averaging.md"
+    },
+    {
+      "basename": "Model Ensembling",
+      "path": "KNOWLEDGES/DINO(Meta)/Model Ensembling.md"
+    },
+    {
+      "basename": "GD(Gradient Descent)",
+      "path": "KNOWLEDGES/DINO(Meta)/GD(Gradient Descent).md"
+    },
+    {
+      "basename": "Local-to-Global Correspondence",
+      "path": "KNOWLEDGES/DINO(Meta)/Local-to-Global Correspondence.md"
+    },
+    {
+      "basename": "정리 format",
+      "path": "templates/정리 format.md"
+    },
+    {
+      "basename": "논문 정리 format",
+      "path": "templates/논문 정리 format.md"
+    },
+    {
+      "basename": "2024-10-17 목",
+      "path": "PLAN/24년 10월/2024-10-17 목.md"
+    },
+    {
+      "basename": "Knowledge Distilation",
+      "path": "KNOWLEDGES/DINO(Meta)/Knowledge Distilation.md"
+    },
+    {
+      "basename": "Self-Training",
+      "path": "KNOWLEDGES/DINO(Meta)/Self-Training.md"
+    },
+    {
+      "basename": "2024-10-16 수",
+      "path": "PLAN/24년 10월/2024-10-16 수.md"
+    },
+    {
+      "basename": "CBIR(Content-Based Image Retireval)",
+      "path": "KNOWLEDGES/CBIR(Content-Based Image Retireval).md"
+    },
+    {
+      "basename": "A Decade Survey of Content Based Image Retrieval Using Deep Learning",
+      "path": "CVIPL/SURVEY - Image Retrieval/A Decade Survey of Content Based Image Retrieval Using Deep Learning.md"
+    },
+    {
+      "basename": "Deep image retrieval_ a survey",
+      "path": "CVIPL/SURVEY - Image Retrieval/Deep image retrieval_ a survey.md"
+    },
+    {
+      "basename": "@@Survey for Image Retrieval",
+      "path": "CVIPL/SURVEY - Image Retrieval/@@Survey for Image Retrieval.md"
+    },
+    {
+      "basename": "2024-10-14 월",
+      "path": "PLAN/24년 10월/2024-10-14 월.md"
+    },
+    {
+      "basename": "2024-10-02 수",
+      "path": "PLAN/24년 10월/2024-10-02 수.md"
+    },
+    {
+      "basename": "Deep Learning Based Image Retrieval",
+      "path": "KNOWLEDGES/Deep Learning Based Image Retrieval.md"
+    },
+    {
+      "basename": "Image Feature",
+      "path": "KNOWLEDGES/Image Feature.md"
+    },
+    {
+      "basename": "History of Image Retrieval",
+      "path": "KNOWLEDGES/History of Image Retrieval.md"
+    },
+    {
+      "basename": "zip()",
+      "path": "PYTHON/zip().md"
+    },
+    {
+      "basename": "Utility",
+      "path": "UTILITY/Utility.md"
+    },
+    {
+      "basename": "Daily_Work_Template",
+      "path": "templates/Daily_Work_Template.md"
+    },
+    {
+      "basename": "NCE(Noise Contrastive Estimator)",
+      "path": "KNOWLEDGES/NCE(Noise Contrastive Estimator).md"
+    },
+    {
+      "basename": "2024-10-15 화",
+      "path": "PLAN/24년 10월/2024-10-15 화.md"
+    },
+    {
+      "basename": "2024-10-04 금",
+      "path": "PLAN/24년 10월/2024-10-04 금.md"
+    },
+    {
+      "basename": "docker 내에서 만든 file 및 directory에 대한 permission 문제",
+      "path": "UTILITY/docker 내에서 만든 file 및 directory에 대한 permission 문제.md"
+    },
+    {
+      "basename": "Instance Classification",
+      "path": "KNOWLEDGES/Instance Classification.md"
+    },
+    {
+      "basename": "K-Means",
+      "path": "KNOWLEDGES/K-Means.md"
+    },
+    {
+      "basename": "NLP(Natural Language Processing)",
+      "path": "KNOWLEDGES/NLP(Natural Language Processing).md"
+    },
+    {
+      "basename": "self-supervised learning",
+      "path": "KNOWLEDGES/self-supervised learning.md"
+    },
+    {
+      "basename": "Multi-crop Training",
+      "path": "KNOWLEDGES/Multi-crop Training.md"
+    },
+    {
+      "basename": "GAN(Generative Adversarial Networks)",
+      "path": "KNOWLEDGES/GAN(Generative Adversarial Networks).md"
+    },
+    {
+      "basename": "TBIR(Text-Based Image Retireval)",
+      "path": "KNOWLEDGES/TBIR(Text-Based Image Retireval).md"
+    },
+    {
+      "basename": "Python",
+      "path": "PYTHON/Python.md"
+    },
+    {
+      "basename": "Cursor(code editor)",
+      "path": "UTILITY/Cursor(code editor).md"
+    },
+    {
+      "basename": "Deep Learning for Instance Retrieval_ A Survey",
+      "path": "CVIPL/SURVEY - Image Retrieval/Deep Learning for Instance Retrieval_ A Survey.md"
+    },
+    {
+      "basename": "EK(External Knowledge) for 'Project - GRDINO with DINOv2'",
+      "path": "CVIPL/Project - GRDINO with DINOv2/External Knowledge/EK(External Knowledge) for 'Project - GRDINO with DINOv2'.md"
+    }
+  ],
+  "omittedPaths": []
+}

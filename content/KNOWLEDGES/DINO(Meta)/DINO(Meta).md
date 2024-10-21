@@ -241,7 +241,7 @@ DeiT의 implementation을 따름
 - ["Training data-efficient image transformers & distillation through attention"](https://proceedings.mlr.press/v139/touvron21a)
 
 > [!Table 1]
-> ![[Pasted image 20241017155517.png|600]]
+> ![[Pasted image 20241017155517.png|500]]
 
 - image patch의 resolution $N \times N$:
 	- N=16("/16")
